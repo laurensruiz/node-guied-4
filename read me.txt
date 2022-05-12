@@ -24,4 +24,6 @@ more instructions:
 
 https://bloomtech.instructure.com/courses/2417/pages/objective-1-extract-configuration-into-environment-variables?module_item_id=665595
 
+terminal -- touch fortunes.js for random fortune
+
 
