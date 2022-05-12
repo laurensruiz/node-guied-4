@@ -1,0 +1,27 @@
+steps
+//terminal 
+-npm init -y
+-npx gitignore node
+
+-npx eslint --init
+   check syntax -problems , common js, no, node, JSON, npm 
+   - you can edit after install you can reinstall or change eslint.json file
+   - node will allow for console.log
+
+-node index.js 
+       see console.log
+
+-install express
+
+highlight anything red-- server-- and copy past it into rules:
+"no-unused-vars": 0
+
+you can type in terminal : export PORT= 12345
+
+
+type "server": "nodemon index.js" into scripts package.jsonthen npm install -D nodemon.
+more instructions:
+
+https://bloomtech.instructure.com/courses/2417/pages/objective-1-extract-configuration-into-environment-variables?module_item_id=665595
+
+

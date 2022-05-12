@@ -1,0 +1,30 @@
+{
+  "name": "guied-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurensruiz/node-guied-4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurensruiz/node-guied-4/issues"
+  },
+  "homepage": "https://github.com/laurensruiz/node-guied-4#readme",
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "env": "^0.0.2",
+    "express": "^4.18.1"
+  }
+}
